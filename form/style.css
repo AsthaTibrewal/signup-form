@@ -1,0 +1,20 @@
+.form
+{
+   display: inline-block;
+    margin-left: 450px;
+   
+    
+    border: 2px solid;
+    padding: 40px;
+   
+   margin-top: 50px;
+    height: 400px;
+   
+}
+.image
+{
+    display: inline-block;
+    margin-left: 200px;
+    position:absolute;
+    height: 600px;
+}
